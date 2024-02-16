@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil! 
 
-Olá! Meu nome é Juan (Cristian) Sardinha, e estou muito feliz em te receber aqui! 😊 Sou um Freelancer Autônomo com grande interesse em me tornar um excelente programador. Gosto de explorar novas tecnologias, criar projetos empolgantes e continuar aprendendo para me aprimorar constantemente. 🚀
+Olá! Meu nome é Juan (Cristian), e estou muito feliz em te receber aqui! 😊 Sou um Freelancer Autônomo com grande interesse em me tornar um excelente programador. Gosto de explorar novas tecnologias, criar projetos empolgantes e continuar aprendendo para me aprimorar constantemente. 🚀
 
 ## 👨‍💻 Sobre Mim
 
