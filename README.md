@@ -23,7 +23,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo e estou aprendendo
 
 Estou dedicando meu tempo para aprender e aprimorar habilidades em:
 
-- Node.js e npm para desenvolvimento backend.
+- Node.js para desenvolvimento backend.
 - TypeScript para escrever código JavaScript mais robusto e escalável.
 - Vue.js para construção de interfaces de usuário interativas e dinâmicas.
 
